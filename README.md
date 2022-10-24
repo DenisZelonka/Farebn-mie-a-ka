@@ -1,6 +1,6 @@
 # Farebná miešačka
 
-
+flutter aplikacia
 
 ## Getting started
 
